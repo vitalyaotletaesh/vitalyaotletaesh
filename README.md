@@ -83,8 +83,17 @@
 <b>Лучшие репозитории (по убыванию)</b>
 
 <div width="100%" align="center">
+  <a href="https://github.com/vitalyaotletaesh/react-blog-frontend" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=react-blog-frontend&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  
   <a href="https://github.com/vitalyaotletaesh/raidenshop" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=raidenshop&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
   </a>
+
+  <a href="https://github.com/vitalyaotletaesh/react-pizza" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=react-pizza&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
