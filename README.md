@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalyaotletaesh&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-<b>Лучшие репозитории (по убыванию)</b>
+### <b>Лучшие репозитории (по убыванию)</b>
 
 <div width="100%" align="center">
   <a href="https://github.com/vitalyaotletaesh/react-blog-frontend" align="left">
