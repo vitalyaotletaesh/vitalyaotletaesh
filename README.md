@@ -8,10 +8,10 @@
 
 * 🌍  Живу в Санкт-Петербурге
 * 🖥️  Портфолио (пока нет ссылки) [Мой сайт-резюме](http://google.com)
-* ✉️  Контакты [Telegram]([mailto:Telegram](https://t.me/Shevchenko_Vitaly))
+* ✉️  Контакты [Telegram]([mailto:[Telegram](https://t.me/Shevchenko_Vitaly)])
 * 🧠  В данный момент я изучаю FSD, улучшаю знания TypeScript, хочу изучить NextJS
 
-🛠 Frontend
+### 🛠 Frontend
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-🛠 Backend
+### 🛠 Backend
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
