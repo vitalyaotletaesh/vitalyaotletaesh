@@ -91,8 +91,8 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=raidenshop&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
   </a>
 
-  <a href="https://github.com/vitalyaotletaesh/react-pizza" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=react-pizza&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
+  <a href="https://github.com/vitalyaotletaesh/ReactPizza" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalyaotletaesh&repo=ReactPizza&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
