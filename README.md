@@ -1,9 +1,5 @@
 <br clear="both">
 
-# <div align="center">
-#  <img height="300" width="600" src=""  />
-# </div>
-
 ###
 
 <h1 align="center">Привет👋 Меня зовут Виталий!</h1>
@@ -24,12 +20,11 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 - <br>- -<br>- </p>
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<p align="left">
+  <br>-
+  <br>- 
+  <br>-
+  <br>- 
 </p>
 
 ###
