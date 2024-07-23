@@ -29,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
 </p>
+###
 ### 🛠 Backend
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -44,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
+###
 ### 🛠 Другое
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -56,6 +58,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>
 </p>
+###
 
 ### Socials
 
